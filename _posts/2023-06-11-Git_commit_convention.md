@@ -5,7 +5,6 @@ categories: [Git]
 tags: [Convention, Git]     # TAG names should always be lowercase
 ---
 
-### 작성계기
 
 ##### 프로젝트를 진행한다면 버전관리는 필수이고, Git을 이용할때 commit message를 작성하는것 역시 필수이다.
 
