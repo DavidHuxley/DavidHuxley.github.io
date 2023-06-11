@@ -6,8 +6,9 @@ order: 4
 
 # Hello! I'm Huxley
 
-![Huxley's GitHub stats](https://raw.githubusercontent.com/DavidHuxley/github-stats/master/generated/overview.svg#gh-dark-mode-only){: width="486" height="294" .normal}
-![Most Used Language](https://raw.githubusercontent.com/DavidHuxley/github-stats/master/generated/languages.svg#gh-dark-mode-only){: width="486" height="294" .normal}
+<img src="https://raw.githubusercontent.com/DavidHuxley/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="380px" height="220px">
+<img src="https://raw.githubusercontent.com/DavidHuxley/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="380px" height="220px">
 
-![Huxley's GitHub stats](https://raw.githubusercontent.com/DavidHuxley/github-stats/master/generated/overview.svg#gh-dark-mode-only){: width="972" height="589" .w-50 .left}
+
+![Huxley's GitHub stats](https://raw.githubusercontent.com/DavidHuxley/github-stats/master/generated/overview.svg#gh-dark-mode-only){: width="972" height="589" .w-50 .normal}
 ![Most Used Language](https://raw.githubusercontent.com/DavidHuxley/github-stats/master/generated/languages.svg#gh-dark-mode-only){: width="972" height="589" .w-50 .normal}
