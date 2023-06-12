@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://davidhuxley.github.io/sitemap.xml
