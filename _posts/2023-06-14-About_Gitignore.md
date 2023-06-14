@@ -1,3 +1,9 @@
+---
+title: About "Gitignor"
+date: 2023-06-14 22:51:00 +0900
+categories: [Git]
+tags: [Git, gitignore]     # TAG names should always be lowercase
+---
 
 ### Github에 사용하면서 아무 생각 없이 푸시하면 보안이슈로 코딩인생이 끝날수도 있다.
 
